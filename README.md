@@ -4,4 +4,4 @@ Just trying out HTML5 and CSS3. All static websites will be written in this lang
 
 # What I have learned
 
-Html5 and CSS3
+HTML5 and CSS3
